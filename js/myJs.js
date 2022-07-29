@@ -35,9 +35,9 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "file:///C:/Users/PC/Downloads/Anh1.webp",
-      imageWidth:  300,
-      imageHeight:  300,
+      imageUrl: "img/cuteCat.jpg",
+      imageWidth: 300,
+      imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
