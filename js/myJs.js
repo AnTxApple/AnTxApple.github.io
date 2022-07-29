@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "file:///C:/Users/PC/Downloads/background.webp",
+      imageUrl: "img/background.jpg",
       imageWidth:  1000,
       imageHeight: 1000,
       background: '#fff url("img/iput-bg.jpg")',
