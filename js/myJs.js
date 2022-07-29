@@ -36,12 +36,12 @@ $(document).ready(function () {
       title: textConfig.text1,
       text: textConfig.text2,
       imageUrl: "img/background.jpg",
-      imageWidth:  1000,
-      imageHeight: 1000,
+      imageWidth:  500,
+      imageHeight: 500,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
-      $(".content").show(200);
+      $(".content").show(100);
     });
   }
 
