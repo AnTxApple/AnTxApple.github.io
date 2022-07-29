@@ -8,7 +8,7 @@ const textConfig = {
   text7: "Liệu pà muốn làm gì trong rạp chiếu phim với tuiii ?",
   text8: "Nói tui nghe nèkk <3",
   text9: "Tui muốn được đại kaa ôm <33",
-  text10: "Dạ tuii biết òi ^^ Tui sẽ làm theo những gì pé muốn nefkk <33",
+  text10: "Dạ tuii biết òi ^^ Tui sẽ làm theo những gì pé muốn nèk <33",
   text11:
     "Hẹn thứ bảy 30/07/2022 nhá, thiệc đáng mong chờ quá đi, iu em nhiều <333",
   text12: "Iuu anh gất nhiều <3",
