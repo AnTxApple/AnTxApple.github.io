@@ -36,8 +36,8 @@ $(document).ready(function () {
       title: textConfig.text1,
       text: textConfig.text2,
       imageUrl: "file:///C:/Users/PC/Downloads/Anh1.webp",
-      imageWidth:  500,
-      imageHeight: 500,
+      imageWidth:  300,
+      imageHeight:  300,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
